@@ -16,7 +16,7 @@ function scuberGreetingForFeet (start){
 
 
 
-  return  city === NYC ? 'Ok, sounds good.' :'No go.';
+  return  city === 'NYC' ? 'Ok, sounds good.' :'No go.';
 
 
   }
