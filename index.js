@@ -7,9 +7,6 @@ function scuberGreetingForFeet (start){
     if (start > 2000){
       return 'I will gladly take your thirty bucks.';
     }
-  }else{
-    if (start > 2500){
-      return 'No can do.';}
-    }
+  }
 
 }
