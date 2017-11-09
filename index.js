@@ -1,5 +1,5 @@
 // Write your code in this file!
-function scuberGreetingForFeet (start,end){
+function scuberGreetingForFeet (start, end){
  const distance = Math.abs(start - end) ;
 
   if (distance < 400){
