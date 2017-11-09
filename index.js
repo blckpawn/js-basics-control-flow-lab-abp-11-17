@@ -16,7 +16,7 @@ function scuberGreetingForFeet (start){
 
   let drive;
     
-    city === NYC ? drive ='Ok, sounds good.' : drive = 'No go.';
+    city == NYC ? drive = 'Ok, sounds good.' : drive = 'No go.';
 
     
   }
