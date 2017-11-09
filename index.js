@@ -25,6 +25,7 @@ function scuberGreetingForFeet (start){
       sitch(amount){
         case 'Generous':
         return 'Thank you so much.'
+        break;
       }
 
 
