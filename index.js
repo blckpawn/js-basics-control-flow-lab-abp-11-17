@@ -21,9 +21,9 @@ function scuberGreetingForFeet (start){
 
   }
 
-  
+
   function switchOnCharmFromTip(amount){
-      sitch(amount){
+      switch(amount){
         case 'generous':
         return 'Thank you so much.'
         break;
