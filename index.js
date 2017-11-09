@@ -25,9 +25,10 @@ function scuberGreetingForFeet (start){
   function switchOnCharmFromTip(amount){
       switch(amount){
         case 'generous':
-        return 'Thank you so much.'
+        return 'Thank you so much.';
 
       }
+      case 'not as generous':
+      return 'Thank you.';
 
       }
-  
