@@ -3,5 +3,9 @@ function scuberGreetingForFeet (start){
 
   if (start < 400){
     return "This one is on me!";
+  }else if (start > 2000){
+    return 30;
+  }else if(start > 2500){
+    return "No can do";
   }
-}
+    }
