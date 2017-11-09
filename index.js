@@ -12,6 +12,6 @@ function scuberGreetingForFeet (start){
     }
   };
 
-  function ternaryCheckCity(City){
-    City === NYC ? 'Ok, sounds good';
+  function ternaryCheckCity(city){
+    city === NYC ? 'Ok, sounds good';
   }
